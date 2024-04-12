@@ -2,5 +2,10 @@ ini dari leo
 
 ini dari branh master leonardi
 
+<<<<<<< HEAD
 ini dari branch leonardi1
 ini dari branch leonardi2
+=======
+
+
+>>>>>>> depanri
