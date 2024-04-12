@@ -1,3 +1,6 @@
 ini dari leo
 
 ini dari branh master leonardi
+
+ini dari branch leonardi1
+ini dari branch leonardi2
